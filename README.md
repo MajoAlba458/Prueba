@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git # Manufacturing Company
 
 ## Objective
@@ -11,3 +12,6 @@ It is proposed to anlyze, design and create a software application that allows t
 * **Quality:** Jofay Zhan Segura
 
 > Keep in mind that we all play a role in software development :)
+=======
+# prueba
+>>>>>>> 76ff4ea5d3247527900b710962c5cfd58e4cd07c
