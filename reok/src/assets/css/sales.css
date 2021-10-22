@@ -1,0 +1,16 @@
+button{
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.sales-main-container{
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(to right, #00f28e, #00B4D8);
+}
+
+tr:nth-child(odd){
+    background-color: rgba(0, 0, 0, 0.11);
+}
+tr:nth-child(even){
+    background-color: rgba(255, 255, 255, 0.137);
+}
